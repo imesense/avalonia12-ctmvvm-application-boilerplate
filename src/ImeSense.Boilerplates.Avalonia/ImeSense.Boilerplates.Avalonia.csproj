@@ -16,13 +16,13 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Avalonia" Version="12.0.3" />
-        <PackageReference Include="Avalonia.Fonts.Inter" Version="12.0.3" />
-        <PackageReference Include="Avalonia.Themes.Simple" Version="12.0.3" />
-        <PackageReference Include="AvaloniaUI.DiagnosticsSupport" Version="2.2.1">
+        <PackageReference Include="Avalonia" />
+        <PackageReference Include="Avalonia.Fonts.Inter" />
+        <PackageReference Include="Avalonia.Themes.Simple" />
+        <PackageReference Include="AvaloniaUI.DiagnosticsSupport">
             <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
             <IncludeAssets Condition="'$(Configuration)' != 'Debug'">None</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+        <PackageReference Include="CommunityToolkit.Mvvm" />
     </ItemGroup>
 </Project>
