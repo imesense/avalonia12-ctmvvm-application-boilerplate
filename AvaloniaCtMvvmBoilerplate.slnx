@@ -1,4 +1,14 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="global.json" />
+    <File Path="LICENSE.txt" />
+    <File Path="NuGet.config" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="src/ImeSense.Boilerplates.Avalonia.Windows/ImeSense.Boilerplates.Avalonia.Windows.csproj" />
   <Project Path="src/ImeSense.Boilerplates.Avalonia/ImeSense.Boilerplates.Avalonia.csproj" />
 </Solution>
