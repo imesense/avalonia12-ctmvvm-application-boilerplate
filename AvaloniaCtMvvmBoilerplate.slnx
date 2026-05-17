@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="src/ImeSense.Boilerplates.Avalonia.Windows/ImeSense.Boilerplates.Avalonia.Windows.csproj" />
+  <Project Path="src/ImeSense.Boilerplates.Avalonia/ImeSense.Boilerplates.Avalonia.csproj" />
+</Solution>
