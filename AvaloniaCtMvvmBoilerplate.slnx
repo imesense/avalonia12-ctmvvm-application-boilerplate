@@ -9,6 +9,7 @@
     <File Path="NuGet.config" />
     <File Path="README.md" />
   </Folder>
+  <Project Path="src/ImeSense.Boilerplates.Avalonia.WebAssembly/ImeSense.Boilerplates.Avalonia.WebAssembly.csproj" />
   <Project Path="src/ImeSense.Boilerplates.Avalonia.Windows/ImeSense.Boilerplates.Avalonia.Windows.csproj" />
   <Project Path="src/ImeSense.Boilerplates.Avalonia/ImeSense.Boilerplates.Avalonia.csproj" />
 </Solution>
