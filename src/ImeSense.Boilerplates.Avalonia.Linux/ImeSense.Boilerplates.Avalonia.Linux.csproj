@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <OutputType>WinExe</OutputType>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>disable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Avalonia.Desktop" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\ImeSense.Boilerplates.Avalonia\ImeSense.Boilerplates.Avalonia.csproj" />
+    </ItemGroup>
+</Project>
