@@ -10,6 +10,7 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="src/ImeSense.Boilerplates.Avalonia.Android/ImeSense.Boilerplates.Avalonia.Android.csproj" />
+  <Project Path="src/ImeSense.Boilerplates.Avalonia.iOS/ImeSense.Boilerplates.Avalonia.iOS.csproj" />
   <Project Path="src/ImeSense.Boilerplates.Avalonia.Linux/ImeSense.Boilerplates.Avalonia.Linux.csproj" />
   <Project Path="src/ImeSense.Boilerplates.Avalonia.macOS/ImeSense.Boilerplates.Avalonia.macOS.csproj" />
   <Project Path="src/ImeSense.Boilerplates.Avalonia.WebAssembly/ImeSense.Boilerplates.Avalonia.WebAssembly.csproj" />
